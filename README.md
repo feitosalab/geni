@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/feitosalab/gebi.svg?branch=master)](https://travis-ci.com/feitosalab/geni)
+[![Build Status](https://www.travis-ci.com/feitosalab/geni.svg?branch=main)](https://travis-ci.com/feitosalab/geni)
 
 # Geni - The Slack Ant Bot Extraordinaire!
 
