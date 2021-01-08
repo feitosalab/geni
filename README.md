@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/feitosalab/gebi.svg?branch=master)](https://travis-ci.com/feitosalab/geni)
+
 # Botkit Starter Kit
 
 This is a Botkit starter kit for slack, created with the [Yeoman generator](https://github.com/howdyai/botkit/tree/master/packages/generator-botkit#readme).
